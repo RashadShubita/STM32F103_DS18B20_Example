@@ -2,7 +2,7 @@
  * @file    DS18B20.c
  * @author  Rashad Shubita
  * @email   shubitarashad@gmail.com
- * @date    20.01.2019
+ * @date    08.03.2019
  *
  * @brief   Interfacing temperature sensor DS18B20 using UART over one-wire
  * @note

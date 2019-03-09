@@ -2,7 +2,7 @@
  * @file    main.c
  * @author  Rashad Shubita
  * @email   shubitarashad@gmail.com
- * @date    20.01.2019
+ * @date    08.03.2019
  *
  * @brief   main application called after startup
  * @note
